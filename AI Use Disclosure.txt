@@ -1,0 +1,1 @@
+AI was used to assist in python internal function look up, and introduction to libraries. 
